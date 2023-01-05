@@ -1,13 +1,23 @@
-# :construction: README customizado em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
+<details>
+  <summary><strong>👨‍💻 O que foi desenvolvido</strong></summary><br />
 
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
+  - Nesse projeto escrevi os testes para uma aplicação React que já está criada e configurada, utilizando [`Jest`](https://jestjs.io/) e a biblioteca [`React Testing Library`](https://testing-library.com/). 
+ 
+  - A aplicação contém uma implementação completa de todos os requisitos da Pokédex. Meu trabalho foi, para cada requisito listado, escrever testes que garantissem sua corretude. 
+</details>
 
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+<details>
+  <summary><strong>:memo: Habilidades</strong></summary><br />
+
+  Neste projeto, foi verificado pela escola Trybe minha capacidade em:
+
+  * Utilizar os seletores (queries) da React-Testing-Library em testes automatizados;
+
+  * Simular eventos com a React-Testing-Library em testes automatizados;
+
+  * Testar fluxos lógicos assíncronos com a React-Testing-Library;
+
+  * Escrever testes que permitam a refatoração da estrutura dos componentes da aplicação sem necessidade de serem alterados;
+
+  * Testar inputs.
+</details>
